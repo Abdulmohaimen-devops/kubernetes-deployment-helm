@@ -9,8 +9,8 @@ to deploy nodejs app using helm i did the following:
 
 we shoud edit in file .env in app acceleration-calc as follow:
 
-DV_URL=http://acceleration-dv:3001/dv
-A_URL=http://acceleration-a:3002/a
+    DV_URL=http://acceleration-dv:3001/dv
+    A_URL=http://acceleration-a:3002/a
    
 Using the code that can be found here https://github.com/join-com/devops-challenge
    
